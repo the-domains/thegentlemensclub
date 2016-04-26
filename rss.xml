@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Where the Elite Meets]]></title>
+        <description><![CDATA[Where the Elite Meets]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 16:39:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pizza à maneira portuguesa? - Gentleman's Journal]]></title>
+            <description><![CDATA[<article><h1>Pizza à maneira portuguesa? - Gentleman's Journal</h1><p>Falar de um restaurante de pizzas pode parecer um lugar comum mas, neste caso, fomos encontrar uma aposta fortíssima dos irmãos Giulian e Esmeralda Fetahu. A Pizzaria do Bairro inspirou-se no conceito italiano de pizza al taglio, criado em Roma e que tem vindo a conquistar adeptos um pouco por todo o mundo, para destacar ...</p><img src="http://www.gentlemans-journal.com/wp-content/uploads/2016/04/O-ESPA%C3%87O-9.jpg"></article>]]></description>
+            <link>http://www.gentlemans-journal.com/2016/04/pizza-maneira-portuguesa/</link>
+            <guid isPermaLink="false">db942be2-80ac-440a-83d3-0e71b55c0159</guid>
+            <pubDate>Tue, 26 Apr 2016 16:39:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
